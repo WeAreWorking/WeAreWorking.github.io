@@ -20,12 +20,12 @@
   --gray-dark: #343a40;
   --primary: #007bff;
   --secondary: #6c757d;
-  --success: #28a745;
-  --info: #17a2b8;
-  --warning: #ffc107;
-  --danger: #dc3545;
-  --light: #f8f9fa;
-  --dark: #343a40;
+  --success: #1ace44;
+  --info: #13c2dd;
+  --warning: #ffbf00;
+  --danger: #ff0019;
+  --light: #e2e2e2;
+  --dark: #22262a;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
